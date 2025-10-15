@@ -1,0 +1,15 @@
+{
+    "short_name": "Zinita",
+    "name": "Zinita",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "minimal-ui",
+    "theme_color": "#ffffff",
+    "description": "Showcasing projects, experience, and services in web and mobile development. Contact for custom development solutions.",
+    "icons": [{
+        "src": "icon512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "version": "1.0.0"
+}
